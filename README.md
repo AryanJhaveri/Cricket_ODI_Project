@@ -4,6 +4,9 @@
 
 This project aims to explore the evolution of One Day International cricket matches' pace. We've analyzed data from over 4686 ODI matches, leveraging a custom Python script to scrape data from ESPN Cricinfo.
 
+For more in-depth insights and discussions related to this project, check out my blog post:
+- [My Project Blog](https://medium.com/@aryanjhaveri.aj/how-fast-has-the-game-of-cricket-become-the-numbers-b642affcb98c)
+  
 ## Table of Contents
 - [Webscrapping](#webscrapping)
 - [Data Cleaning](#data-cleaning)
